@@ -1,2 +1,3 @@
-# ah-siyalan
-ReactJS pemula, seperti saya
+# Pengenalan ReactJS
+
+Simple Router for Pages/Login and Pages/Home
